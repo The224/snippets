@@ -1,7 +1,18 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [SSH Protocol](ssh-protocol.md)
+
+## Command
+
+* [SSH Protocol](command/ssh-protocol.md)
+
+## Configuration <a id="config"></a>
+
+* [Fira Code Font](config/fira-code-font.md)
+* [VS Code](config/vs-code.md)
+* [Alacritty](config/alacritty.md)
+* [.zshrc](config/.zshrc.md)
+* [.editorconfig](config/.editorconfig.md)
 
 ## Socials
 
