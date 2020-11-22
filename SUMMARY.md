@@ -9,6 +9,7 @@
 ## Command
 
 * [SSH Protocol](command/ssh-protocol.md)
+* [Uncomplicated Firewall](command/uncomplicated-firewall.md)
 
 ## Configuration <a id="config"></a>
 
