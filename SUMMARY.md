@@ -6,9 +6,9 @@
 
 * [Mixins](python/mixins.md)
 
-## Code
+## Web
 
-* [HTML](code/html.md)
+* [HTML](web/html.md)
 
 ## Command
 
