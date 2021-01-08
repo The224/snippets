@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Python
+
+* [Mixins](python/mixins.md)
+
 ## Code
 
 * [HTML](code/html.md)
