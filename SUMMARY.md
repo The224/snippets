@@ -10,6 +10,10 @@
 
 * [HTML](web/html.md)
 
+## Docker
+
+* [Popular Service Stack](docker/popular-service-stack.md)
+
 ## Command
 
 * [SSH Protocol](command/ssh-protocol.md)
@@ -17,6 +21,7 @@
 
 ## Configuration <a id="config"></a>
 
+* [Local name resolution](config/local-name-resolution.md)
 * [Fira Code Font](config/fira-code-font.md)
 * [VS Code](config/vs-code.md)
 * [Alacritty](config/alacritty.md)
