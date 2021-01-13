@@ -2,9 +2,15 @@
 
 ## File Transfer
 
-Using the `scp` command.
+The `scp` command will perform a file transfer with ssh protocol. 
 
+```text
+scp <source> <destination>
+```
 
+```text
+scp /path/to/file user@domain:/path/to/destination
+```
 
 ## Port Forwarding tunnel
 
