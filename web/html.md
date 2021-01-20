@@ -3,7 +3,7 @@
 ## Open in new tab
 
 ```markup
-<a href="http://the224.info/" target="_blank" rel="noopener">
+<a href="http://the224.info/" target="_blank" rel="noreferrer">
     Will open in new tab
 </a>
 ```
